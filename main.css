@@ -1,0 +1,12 @@
+.article{
+  border: 3px black solid;
+  border-radius: 7px;
+  margin: 10px;
+  text-align: center;
+}
+.article>a{
+  color: black;
+}
+input{
+  margin: 20px;
+}
